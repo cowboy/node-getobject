@@ -40,5 +40,8 @@
     "set",
     "object",
     "dot"
+  ],
+  "files": [
+    "lib"
   ]
 }
