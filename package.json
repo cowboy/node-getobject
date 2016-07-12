@@ -1,7 +1,7 @@
 {
   "name": "getobject",
   "description": "get.and.set.deep.objects.easily = true",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/cowboy/node-getobject",
   "author": {
     "name": "\"Cowboy\" Ben Alman",
