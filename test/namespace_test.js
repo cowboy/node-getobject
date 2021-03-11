@@ -49,3 +49,11 @@ exports.exists = function(test) {
   test.equal(getobject.exists(obj, 'a.b.x'), false, 'nonexistent property should not exist.');
   test.done();
 };
+
+exports.proto = function(test) {
+  var obj = {};
+  test.equal(getobject.exists(obj, 'isAdmin'), false);
+  getobject.set(obj, '__proto__.isAdmin', true);
+  test.equal(getobject.exists(obj, 'isAdmin'), false);
+  test.done();
+};
