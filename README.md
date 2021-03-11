@@ -1,4 +1,4 @@
-# getobject [![Build Status](https://secure.travis-ci.org/cowboy/node-getobject.png?branch=master)](http://travis-ci.org/cowboy/node-getobject)
+# getobject [![Build Status](https://github.com/cowboy/node-getobject/workflows/Tests/badge.svg)](https://github.com/cowboy/node-getobject/actions?workflow=Tests)
 
 get.and.set.deep.objects.easily = true;
 
