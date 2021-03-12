@@ -13,7 +13,9 @@ var getobject = require('getobject');
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
+
+* 11/03/2021 - 1.0.0 Release. Fixes CVE-2020-28282.
+* 21/11/2013 - 0.1.0 Release.
 
 ## License
 Copyright (c) 2013 "Cowboy" Ben Alman

@@ -22,7 +22,7 @@
   ],
   "main": "lib/getobject",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">=10"
   },
   "scripts": {
     "test": "grunt nodeunit"
