@@ -28,10 +28,10 @@
     "test": "grunt nodeunit"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "~3.0.0",
-    "grunt-contrib-nodeunit": "~3.0.0",
+    "grunt-contrib-jshint": "~3.2.0",
+    "grunt-contrib-nodeunit": "~4.0.0",
     "grunt-contrib-watch": "~1.1.0",
-    "grunt": "~1.4.0"
+    "grunt": "~1.4.1"
   },
   "keywords": [
     "dot notation",
